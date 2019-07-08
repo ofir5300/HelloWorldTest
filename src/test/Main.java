@@ -14,4 +14,9 @@ public class Main {
         System.out.println("dekel bracnch updated");
         // amit computer
     }
+
+
+    {
+        inal dinak
+    }
 }
